@@ -1,0 +1,79 @@
+E:\IHM proj v4\WindowsFormsApp1\bin\Debug\Cavalier.png
+E:\IHM proj v4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\IHM proj v4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\IHM proj v4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\IHM proj v4\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csprojResolveAssemblyReference.cache
+E:\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Jeu.resources
+E:\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+E:\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Simulation.resources
+E:\IHM proj v4\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csproj.GenerateResource.Cache
+E:\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\meunier6\Desktop\IHM proj v4\WindowsFormsApp1\bin\Debug\Cavalier.png
+C:\Users\meunier6\Desktop\IHM proj v4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\meunier6\Desktop\IHM proj v4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\meunier6\Desktop\IHM proj v4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\meunier6\Desktop\IHM proj v4\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csprojResolveAssemblyReference.cache
+C:\Users\meunier6\Desktop\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Jeu.resources
+C:\Users\meunier6\Desktop\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\meunier6\Desktop\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\meunier6\Desktop\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Simulation.resources
+C:\Users\meunier6\Desktop\IHM proj v4\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csproj.GenerateResource.Cache
+C:\Users\meunier6\Desktop\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\meunier6\Desktop\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\bin\Debug\Cavalier.png
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Jeu.resources
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Simulation.resources
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Thomas\Documents\test\IHM proj v4\WindowsFormsApp1\bin\Debug\Bois.jpg
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\bin\Debug\Cavalier.png
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\bin\Debug\Bois.jpg
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csprojResolveAssemblyReference.cache
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Jeu.resources
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Simulation.resources
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csproj.GenerateResource.Cache
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csproj.CoreCompileInputs.cache
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\delva\Desktop\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\IHM proj v4.1\WindowsFormsApp1\bin\Debug\Cavalier.png
+F:\IHM proj v4.1\WindowsFormsApp1\bin\Debug\Bois.jpg
+F:\IHM proj v4.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\IHM proj v4.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\IHM proj v4.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csprojResolveAssemblyReference.cache
+F:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Jeu.resources
+F:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+F:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Simulation.resources
+F:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csproj.GenerateResource.Cache
+F:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csproj.CoreCompileInputs.cache
+F:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\IHM proj v4.1\WindowsFormsApp1\bin\Debug\Cavalier.png
+E:\IHM proj v4.1\WindowsFormsApp1\bin\Debug\Bois.jpg
+E:\IHM proj v4.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\IHM proj v4.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\IHM proj v4.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csprojResolveAssemblyReference.cache
+E:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Jeu.resources
+E:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+E:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Simulation.resources
+E:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\Projet IHM DELVAL MEUNIER.csproj.GenerateResource.Cache
+E:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\IHM proj v4.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
